@@ -28,6 +28,7 @@ export const App = () => {
       <h1 className="text-center text-3xl font-bold mt-10">
         Todo List Practice
       </h1>
+      <p>変更テスト</p>
       <div className="text-center mt-7">
         <form onSubmit={addTodo}>
           <input
